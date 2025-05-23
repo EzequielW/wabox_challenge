@@ -2,7 +2,7 @@
 
 A frontend application built with **Vue 3**, **TypeScript**, **Pinia**, and **Tailwind CSS**, for displaying and managing WhatsApp Business API message templates.
 
----
+<br>
 
 ## 🔧 Tech Stack
 
@@ -13,7 +13,7 @@ A frontend application built with **Vue 3**, **TypeScript**, **Pinia**, and **Ta
 - **Tailwind CSS** for styling
 - **Moment.js** for date formatting
 
----
+<br>
 
 ## 🚀 Features
 
@@ -22,7 +22,7 @@ A frontend application built with **Vue 3**, **TypeScript**, **Pinia**, and **Ta
 - Filter templates by status (`draft`, `pending`, `rejected`, etc.)
 - Highlight dynamic variables like `{{name}}` in messages
 
----
+<br>
 
 ## 🏗 Project Structure
 
@@ -50,7 +50,7 @@ src/
 └── main.ts  
 ```
 
----
+<br>
 
 ## ⚙️ Setup
 
